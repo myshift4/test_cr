@@ -1,5 +1,4 @@
 import sys,os
-import pymysql.cursors
 import pandas as pd
 from datetime import datetime
 from clickhouse_driver import Client
