@@ -47,6 +47,6 @@ if __name__ == '__main__':
     #获取有付费但是没有行为数据的那部分uuid,先针对这部分uuid去修正他们所映射的user_id,这种方式最简单且最快
     date = str(sys.argv[1])
     main(date)
-    print('run_finish')
+    print('run_finish test test')
 
 
